@@ -1,0 +1,26 @@
+body{
+    overflow: auto;
+}
+#nav{
+    overflow: hidden;
+}
+#home{
+    overflow: hidden;
+}
+#section6 {
+    overflow: hidden;
+    background-color: rgba(192,192,192,.35);
+}
+#section6 .Cart {
+    
+    background-color: white;
+}
+
+#section6 .Cart .Cart-img {
+    height: 50%;
+    overflow: hidden;
+}
+#section6 .Cart .Cart-img img {
+    height: 100%;
+    width: 100%;
+}
